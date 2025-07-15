@@ -1,5 +1,5 @@
 # Ola-Data-Analysis-Project
-Tools Used: SQL, Excel, Power BI
+**Tools Used: SQL, Excel, Power BI**
 
 Utilized SQL to extract, clean, and prepare large datasets related to Ola ride patterns, optimizing query performance to handle complex relational data structures.
 
